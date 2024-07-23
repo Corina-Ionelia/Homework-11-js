@@ -1,2 +1,1 @@
-# Homework-11-js
-js Homework 10
+# goit-js-hw-11
